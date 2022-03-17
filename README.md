@@ -1,7 +1,11 @@
 # Example Package
 
-This is a simple example package. You can use
-[Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
-to write your content.# diana.package
-# automatic-octo-succotash
+This is a simple diana package. You can use
+[Diana Package Link](https://pypi.org/project/dianaensias/)
+
+### command to install the package
+```
+pip install dianaensias
+```
+
 # diana
